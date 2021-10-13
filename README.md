@@ -1,1 +1,1 @@
-## aplicação em __Javascrpript__ puro que faz o controle financeiro e armazena todas as informações no local storage podendo dar refresh na pagina que não se altera
+## aplicação em __Javascrpript__ __HTML__ e __CSS__ que faz o controle financeiro e armazena todas as informações no local storage podendo dar refresh na pagina que não se altera
